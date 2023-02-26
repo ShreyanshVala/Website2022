@@ -1,6 +1,6 @@
 # Website2022
 
-(clickhere)["https://iridescent-madeleine-c6f4bf.netlify.app/"]
+<a href="https://iridescent-madeleine-c6f4bf.netlify.app/"></a>
 Tech-Stack
 -HTML
 -CSS
