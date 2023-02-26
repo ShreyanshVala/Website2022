@@ -7,4 +7,4 @@ Tech-Stack
 -JavaScript
 -Git
 
-Website2022/web.html
+file:///D:/Website2022/web.html
